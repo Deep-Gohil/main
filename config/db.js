@@ -6,3 +6,7 @@ const connectToDatabase = async() =>{
 }
 
 module.exports = connectToDatabase;
+
+let dummy = () =>{
+    console.log("This is a dummy function");
+}
